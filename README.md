@@ -12,9 +12,9 @@ https://github.com/yo0yo/UnityTest/assets/146173573/5e81c401-676b-4cec-a791-3cfe
 
 
 
-GIF nicht vorhanden
+GIF 
 
-![Screenshot (27)](https://github.com/yo0yo/UnityTest/assets/146173573/5882ed8b-bc93-4439-9497-1b8280e2336c)
+![Movie_010](https://github.com/yo0yo/UnityTest/assets/146173573/7f2bc36c-2454-4468-ab76-9c48e4920ee1)
 
 
 WebGL: 
